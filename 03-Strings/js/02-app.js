@@ -9,6 +9,6 @@ console.log(producto.length);
 console.log(producto.indexOf('Monitor'));
 
 // includes
-console.log(producto.incoludes('Monitor'));
+console.log(producto.includes('Monitor'));
 
 
